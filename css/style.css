@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: rgb(133, 163, 133);
+}
+
+#hello {
+    color: maroon;
+}
+
+#title {
+    color: rgb(94, 94, 136);
+}
+
+h1, p {
+    text-align: center;
+}
+
+form {
+    width: 750px;
+    margin-left: 530px;
+    color: rgb(94, 94, 136);
+}
+
+#submit {
+    margin-left: 104px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
